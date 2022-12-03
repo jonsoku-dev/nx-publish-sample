@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/jonsoku2/nx-publish-sample/compare/@myorg/utils@0.2.0...@myorg/utils@0.3.0) (2022-12-03)
+
+### Features
+
+- **utils:** hey ([14845ac](https://github.com/jonsoku2/nx-publish-sample/commit/14845aca676950feeeb8be6196b548c4095553ba))
+
 # [0.2.0](https://github.com/jonsoku2/nx-publish-sample/compare/@myorg/utils@0.1.0...@myorg/utils@0.2.0) (2022-12-03)
 
 ### Features
