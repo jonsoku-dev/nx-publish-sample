@@ -1,9 +1,9 @@
 {
-  "name": "@myorg/utils",
+  "name": "@linecorp/lookbook-test",
   "version": "0.4.0",
   "type": "commonjs",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "2a53c0ced5d971a7eb9772b42377b6e80bd3495e"
+  "gitHead": "d82a221f972bbb5661fa1dc0fa88f338ffb69591"
 }
