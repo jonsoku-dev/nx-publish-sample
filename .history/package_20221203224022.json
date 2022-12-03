@@ -14,8 +14,7 @@
     "react-dom": "18.2.0",
     "regenerator-runtime": "0.13.7",
     "tslib": "^2.3.0",
-    "postversion": "npm run affected:build",
-    "publish:libs": "lerna publish"
+    "postversion": "npm run affected:build"
   },
   "devDependencies": {
     "@nrwl/cli": "15.2.4",

@@ -4,6 +4,6 @@
   "type": "commonjs",
   "publishConfig": {
     "access": "public",
-    "directory": "../../dist/libs/utils"
+    "directory": "../../dist/libs/core"
   }
 }
